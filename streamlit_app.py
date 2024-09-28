@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
-import numpy as 
-File"/mount/src/loan-approval-prediction-machineleaning/streamlit_app.py"
-
+import numpy as np
 
 st.title(' Loan Approval Prediction')
 
