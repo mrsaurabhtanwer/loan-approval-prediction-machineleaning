@@ -1,8 +1,10 @@
 import streamlit as st
 import pandas as pd 
 import numpy as np
-import sktlearn as skt
-import matplotlip as plt.py
+import matplotlib.pyplot as plt
+%matplotlib inline
+import seaborn as sns
+from sklearn import svm
 
 
 st.title(' Loan Approval Prediction')
