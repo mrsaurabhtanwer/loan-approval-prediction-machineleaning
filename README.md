@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Loan Approval Prediction Machine Learning App
 ```
-⬆️ (Replace above with your app's name)
+⬆️ (Loan approval prediction MAchine learning )
 ```
 
 Description of the app ...
