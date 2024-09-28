@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title(' Loan Approval Prediction')
 
-st.write('Hello world!')
+st.write(' Here you can predict your loan eligibility certria')
