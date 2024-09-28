@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-
+def fetch_data(url):https://github.com/mrsaurabhtanwer/Loan-Approval-Prediction-using-Machine-Learning-/blob/main/Copy%20of%20loan%20-%20loan.csv
 
 st.title(' Loan Approval Prediction')
 
